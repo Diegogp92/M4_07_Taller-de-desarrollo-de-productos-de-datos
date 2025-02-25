@@ -1,0 +1,10 @@
+Variable,Unidades,Descripción
+nmot_w,rpm,Velocidad angular del Motor
+mshfm_w,g/s,Flujo de Aire
+rl_w,%,Carga del Motor Actual
+rlsol_w,%,Carga del Motor Especificada
+pvdkds_w,mbar Absolutos,Presión de Soplado del Turbo Actual
+plsol_w,mbar Absolutos,Presión de Soplado del Turbo Especificada
+lamsoni_w,Adimensional,Lambda Actual
+lamsbg_w,Adimensional,Lambda Especificada
+tikatm_w,Grados C,Temp Gas Escape: Dentro del Catalizador
