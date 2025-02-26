@@ -18,3 +18,5 @@ pip install -r requirements.txt
 
 4) Ejecutar la app en Streamlit:
 streamlit run app_logs_me7.py
+
+5) Continuar en el navegador
