@@ -1,4 +1,4 @@
-# M4_Productos_Datos
+# M4_07_Taller de desarrollo de productos de datos
 Práctica de productos de datos con logs Golf Bosch me7.5 + Streamlit
 
 Creado por Diego García-Patrón Blanco, MDS-9
